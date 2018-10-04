@@ -18,6 +18,7 @@ all_tests = [
              "generators",
              "bfs",
              "biconnected",
+             "ear_decomposition",
              "bipartite_matching",
              "clustercoeffs",
              "corenums",
